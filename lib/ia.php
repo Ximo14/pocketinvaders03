@@ -38,7 +38,7 @@ public $navesIA=[
 
 
     public function getNave(){
-      return $this->$numNaves;
+      return $this->numNaves;
     }
 
     public function getNaveHumano()
